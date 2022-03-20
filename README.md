@@ -25,7 +25,7 @@
       </p>
       <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
       <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-      <p align="center">Hewe are some of my most used social media</p>
+      <p>on mednidhal.abida@gmail.com</p>
    </div>
    <div>
       <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
