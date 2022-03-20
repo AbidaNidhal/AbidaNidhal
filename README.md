@@ -26,10 +26,7 @@
 <div>
  <br><br><br><br><br><br>
 <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>💖𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!💖</h2>
-<div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
-</div>
-<hr>
+<div align="right"><img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif"></div>
 </div>
 </div>
 </body>
