@@ -1,6 +1,6 @@
 <body>
 <h1 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>👋𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮👋</h1>
-<div align="center">
+<div align="right">
 <img src="https://i.imgur.com/jx17oHT.gif">
 </div>
 <div>
