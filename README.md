@@ -2,7 +2,7 @@
 <body>
 <h1 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 ~ OwO</h1>
 <br>
-<div align="center">
+<div align="right">
 <img src="https://i.imgur.com/jx17oHT.gif">
 </div>
 <br>
@@ -40,7 +40,7 @@
 <div>
  <br><br><br><br>
 <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-<div align="center">
+<div align="right">
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
 </div>
 <hr>
