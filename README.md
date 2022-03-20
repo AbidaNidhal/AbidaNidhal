@@ -1,12 +1,12 @@
 <body>
-<h1 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>~ 💖👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖👋 ~ UwU<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>👋𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮👋<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <br>
 <div align="center">
 <img src="https://i.imgur.com/jx17oHT.gif">
 </div>
 <br>
 <div>
-<h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>🦊💬 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊💬<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>🦊𝓐𝓫𝓸𝓾𝓽 𝓶𝓮💬<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 <li>
 <b>Name:</b>Nidhal</li>
@@ -18,7 +18,7 @@
 </li>
 </div>
 <div>
-<h2 align="left"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>~ 📇👨‍💻🛠 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇👨‍💻🛠 ~<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<h2 align="left"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>📇𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮📇<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 <p>
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 </div>
@@ -28,7 +28,7 @@
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design, which i mostly post on Twitter, where a big part my Stuff already is sitting
 </p>
 <br>
-<h2><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+<h2><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>📝𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮📝<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <p align="center">Hewe awe some of my <br>
@@ -38,7 +38,7 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">💖𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰!💖</h2>
 <div align="center">
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
 </div>
