@@ -5,6 +5,7 @@
 <div align="right">
 <img src="https://i.imgur.com/jx17oHT.gif">
 </div>
+ Hi! check my website while you are at it
 <br>
 <div>
  
