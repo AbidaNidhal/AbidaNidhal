@@ -11,7 +11,7 @@
          <b>Gender:</b> Male
       </li>
       <li>
-         <b>Hobbies:</b> Tech Stuff, Web Dev
+         <b>Hobbies:</b> Tech Stuff, Gaming
       </li>
    </div>
    <div>
@@ -44,8 +44,8 @@
    <div>
       <br><br><br><br><br><br>
       <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-      <div align="right">
-         <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+      <div align="left">
+         <img src="https://imgs.search.brave.com/vm4gqVxbhhkBG_F8mkM1BCuAoxEAE7aXGyWsPwFJeVE/rs:fit:640:640:1/g:ce/aHR0cHM6Ly91cGxv/YWQtb3MtYmJzLm1p/aG95by5jb20vdXBs/b2FkLzIwMjAvMTEv/MTkvMTA0OTY0NS9h/ZDU0ZGU5MzA4MTMy/M2M5YTBmMDdkMDJh/YmFlOGM0OV80NTk5/OTI2NTgxOTk3NDM5/MDAzLmdpZj94LW9z/cy1wcm9jZXNzPWlt/YWdlL3Jlc2l6ZSxz/Xzc0MC9xdWFsaXR5/LHFfODAvYXV0by1v/cmllbnQsMC9pbnRl/cmxhY2UsMS9mb3Jt/YXQsZ2lm.gif">
       </div>
       <hr>
    </div>
