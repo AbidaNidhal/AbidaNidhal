@@ -3,7 +3,7 @@
    <div align="right"><img src="https://imgs.search.brave.com/f5Mzs8OYQ8F8bpFBtB-R6WKaXRfwdTz9ykPcBK0rkA0/rs:fit:450:360:1/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvbjdxdDd6/M3psOHE1MS5naWY.gif"  height="200" ></div>
    <div>
       <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💬 </h2>
-      <img height="200" src="https://imgs.search.brave.com/RyQXcOE8VoxhFjH6U46w2F2ipEnDW-fzaN3l9S-NlRU/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy80MzVm/MDEzMWIwM2FhZTM3/Y2NlMzFjZTZhZDNk/Mzg5ZS90ZW5vci5n/aWY_aXRlbWlkPTE4/NzUyMzcw.gif" align="right">
+      <img height="200" src="https://imgs.search.brave.com/RyQXcOE8VoxhFjH6U46w2F2ipEnDW-fzaN3l9S-NlRU/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy80MzVm/MDEzMWIwM2FhZTM3/Y2NlMzFjZTZhZDNk/Mzg5ZS90ZW5vci5n/aWY_aXRlbWlkPTE4/NzUyMzcw.gif" align="left">
       <li>
          <b>Gender:</b> Male
       </li>
@@ -23,7 +23,7 @@
       </p>
       <br><br><br><br><br><br>
       <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-      <img src="https://imgs.search.brave.com/Kp8wvxsa4Q9Ebl04Fo-CBvHonqaZ4Euc7ssrSHhl_yk/rs:fit:640:446:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9lOWJj/NDgxNzM2ZGIwN2Jl/OTY5M2FjN2E4ZjY3/ZDJjYS90ZW5vci5n/aWY_aXRlbWlkPTE4/NjMwMzg1.gif" align="right" height="200">
+      <img src="https://imgs.search.brave.com/sGgmBNIbWPH7vAiP3Gc9FTCf_9FO8qBevAE3s0ja_ZM/rs:fit:640:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5S/MjVBZnp4bFByajVf/d2ZHVHpjcFFnSGFG/ZiZwaWQ9QXBp" align="left" height="200">
       <p><a href="mailto:mednidhal.abida@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
