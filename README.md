@@ -23,7 +23,7 @@
       </p>
       <br><br><br><br><br><br>
       <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-      <img src="https://imgs.search.brave.com/wODIEmpIUvGFo-X_zGa8JDcB42RA7_05bk9hq66Xwn4/rs:fit:540:400:1/g:ce/aHR0cHM6Ly82NC5t/ZWRpYS50dW1ibHIu/Y29tL2E4NmIxMmZj/NmM1OWIyYmMzNmNl/ZGU4MzUzNzc5YjY5/L2E4MmE0NzMwZTM4/ZDM0YjMtYWMvczY0/MHg5NjAvY2Y2Yzdj/YWQ0M2MwMGZmOWQx/MmY4NWVmYTAwNGZi/NWRkMTdjMGE5Ni5n/aWY.gif" align="left" height="200">
+      <img src="https://imgs.search.brave.com/wODIEmpIUvGFo-X_zGa8JDcB42RA7_05bk9hq66Xwn4/rs:fit:540:400:1/g:ce/aHR0cHM6Ly82NC5t/ZWRpYS50dW1ibHIu/Y29tL2E4NmIxMmZj/NmM1OWIyYmMzNmNl/ZGU4MzUzNzc5YjY5/L2E4MmE0NzMwZTM4/ZDM0YjMtYWMvczY0/MHg5NjAvY2Y2Yzdj/YWQ0M2MwMGZmOWQx/MmY4NWVmYTAwNGZi/NWRkMTdjMGE5Ni5n/aWY.gif" align="right" height="200">
       <p><a href="mailto:mednidhal.abida@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
