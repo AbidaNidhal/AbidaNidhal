@@ -3,7 +3,7 @@
    <div align="right"><img src="https://imgs.search.brave.com/f5Mzs8OYQ8F8bpFBtB-R6WKaXRfwdTz9ykPcBK0rkA0/rs:fit:450:360:1/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvbjdxdDd6/M3psOHE1MS5naWY.gif"  width="400px" ></div>
    <div>
       <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💬 </h2>
-      <img src="https://imgs.search.brave.com/RyQXcOE8VoxhFjH6U46w2F2ipEnDW-fzaN3l9S-NlRU/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy80MzVm/MDEzMWIwM2FhZTM3/Y2NlMzFjZTZhZDNk/Mzg5ZS90ZW5vci5n/aWY_aXRlbWlkPTE4/NzUyMzcw.gif" align="right"  width="200px" >
+      <img height="200" src="https://imgs.search.brave.com/RyQXcOE8VoxhFjH6U46w2F2ipEnDW-fzaN3l9S-NlRU/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy80MzVm/MDEzMWIwM2FhZTM3/Y2NlMzFjZTZhZDNk/Mzg5ZS90ZW5vci5n/aWY_aXRlbWlkPTE4/NzUyMzcw.gif" align="right">
       <li>
          <b>Gender:</b> Male
       </li>
