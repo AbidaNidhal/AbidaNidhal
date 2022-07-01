@@ -3,7 +3,7 @@
    <div align="right"><img src="https://imgs.search.brave.com/f5Mzs8OYQ8F8bpFBtB-R6WKaXRfwdTz9ykPcBK0rkA0/rs:fit:450:360:1/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvbjdxdDd6/M3psOHE1MS5naWY.gif"  height="200" ></div>
    <div>
       <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💬 </h2>
-      <img height="200" src="https://imgs.search.brave.com/RyQXcOE8VoxhFjH6U46w2F2ipEnDW-fzaN3l9S-NlRU/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy80MzVm/MDEzMWIwM2FhZTM3/Y2NlMzFjZTZhZDNk/Mzg5ZS90ZW5vci5n/aWY_aXRlbWlkPTE4/NzUyMzcw.gif" align="left">
+      <img height="200" src="https://imgs.search.brave.com/RyQXcOE8VoxhFjH6U46w2F2ipEnDW-fzaN3l9S-NlRU/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy80MzVm/MDEzMWIwM2FhZTM3/Y2NlMzFjZTZhZDNk/Mzg5ZS90ZW5vci5n/aWY_aXRlbWlkPTE4/NzUyMzcw.gif" align="right">
       <li>
          <b>Gender:</b> Male
       </li>
@@ -23,11 +23,11 @@
       </p>
       <br><br><br><br><br><br>
       <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-      <img src="https://imgs.search.brave.com/sGgmBNIbWPH7vAiP3Gc9FTCf_9FO8qBevAE3s0ja_ZM/rs:fit:640:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5S/MjVBZnp4bFByajVf/d2ZHVHpjcFFnSGFG/ZiZwaWQ9QXBp" align="left" height="200">
+      <img src="https://imgs.search.brave.com/wODIEmpIUvGFo-X_zGa8JDcB42RA7_05bk9hq66Xwn4/rs:fit:540:400:1/g:ce/aHR0cHM6Ly82NC5t/ZWRpYS50dW1ibHIu/Y29tL2E4NmIxMmZj/NmM1OWIyYmMzNmNl/ZGU4MzUzNzc5YjY5/L2E4MmE0NzMwZTM4/ZDM0YjMtYWMvczY0/MHg5NjAvY2Y2Yzdj/YWQ0M2MwMGZmOWQx/MmY4NWVmYTAwNGZi/NWRkMTdjMGE5Ni5n/aWY.gif" align="left" height="200">
       <p><a href="mailto:mednidhal.abida@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com">
+<a href="www.linkedin.com/in/abida-nidhal">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
