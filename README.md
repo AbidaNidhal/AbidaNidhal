@@ -1,6 +1,6 @@
 <body>
    <h1 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 👋 ~ OwO</h1>
-   <div align="right"><img src="https://i.imgur.com/jx17oHT.gif"></div>
+   <div align="right"><img src="[https://i.imgur.com/jx17oHT.gif](https://imgs.search.brave.com/f5Mzs8OYQ8F8bpFBtB-R6WKaXRfwdTz9ykPcBK0rkA0/rs:fit:450:360:1/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvbjdxdDd6/M3psOHE1MS5naWY.gif)"></div>
    <div>
       <h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💬 </h2>
       <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
